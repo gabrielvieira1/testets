@@ -1,0 +1,6 @@
+{
+ "code-runner.executorMap": {
+   "typescript": "pnpm run start"
+ },
+ "code-runner.runInTerminal": true
+}
